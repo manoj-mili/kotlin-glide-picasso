@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/glideViewFragment"
+        android:icon="@drawable/ic_image_color_accent"
+        android:title="@string/glide_view"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/picassoViewFragment"
+        android:icon="@drawable/ic_image_color_accent"
+        android:title="@string/picasso_view"
+        app:showAsAction="withText" />
+
+</menu>
